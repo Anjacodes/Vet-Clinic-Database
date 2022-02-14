@@ -5,9 +5,9 @@
 This repository includes files containing pure SQL commands for:
 
 <ul>
-  <li>Creating a new table within the vet_vlinic database. These commands can be found in the schema.sql file.</li>
-  <li>Inserting new data into the table. These commands can be found in the data.sql file.</li>
-  <li>Checking the database for queries. These commands can be found in the queries.sql file.</li>
+  <li>Creating a new table within the vet_vlinic database. These commands can be found in the <a href="./schema.sql">schema.sql</a> file.</li>
+  <li>Inserting new data into the table. These commands can be found in the <a href="./data.sql">data.sql</a> file.</li>
+  <li>Checking the database for queries. These commands can be found in the <a href="./queries.sql">queries.sql</a> file.</li>
 </ul>
 
 <br>
