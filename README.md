@@ -1,31 +1,25 @@
-# curriculum-databases-projects-template
+<h2>Vet Clinic Database</h2>
 
-> This template should be used for database related projects at Microverse.
-> Generate your own repository, update this README and edit all files content while working on projects. You should not be adding any new files unless asked otherwise.
+<br>
 
+This repository includes files containing pure SQL commands for:
 
-## Getting Started
+<ul>
+  <li>Creating a new table within the vet_vlinic database. These commands can be found in the schema.sql file.</li>
+  <li>Inserting new data into the table. These commands can be found in the data.sql file.</li>
+  <li>Checking the database for queries. These commands can be found in the queries.sql file.</li>
+</ul>
 
-This repository includes files with plain SQL that can be used to recreate a database:
-
-- Use [schema.sql](./schema.sql) to create all tables.
-- Use [data.sql](./data.sql) to populate tables with sample data.
-- Check [queries.sql](./queries.sql) for examples of queries that can be run on a newly created database. **Important note: this file might include queries that make changes in the database (e.g., remove records). Use them responsibly!**
-
+<br>
 
 ## Authors
 
-👤 **Author1**
+👤 Anja Schmidt
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+GitHub: <a href="https://github.com/Anjacodes" rel="noopener noreferrer">@Anjacodes</a><br>
+Twitter: <a href="https://twitter.com/Anja_Schmidt7" rel="noopener noreferrer">@Anja_Schmidt7</a><br>
+LinkedIn: <a href="https://www.linkedin.com/in/anja-schmidt7/" rel="noopener noreferrer">Anja Schmidt</a><br>
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
@@ -46,3 +40,7 @@ Give a ⭐️ if you like this project!
 ## 📝 License
 
 This project is [MIT](./MIT.md) licensed.
+
+<br> 
+
+Copyright (c) 2022 Anja Schmidt
