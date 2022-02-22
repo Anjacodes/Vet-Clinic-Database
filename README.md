@@ -12,6 +12,10 @@ This repository includes files containing pure SQL commands for:
 
 <br>
 
+## Database Schema
+
+![Schema picture](./img/vet_clinic_w_index.png)
+
 ## Authors
 
 👤 Anja Schmidt
